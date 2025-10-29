@@ -12,6 +12,7 @@ O objetivo final do Scribo é ser um ecossistema completo para a produção acad
     * **Perfis de Usuário:** `Aluno`, `Orientador` e `Admin (Instituição)`.
     * **Gestão de Projetos:** Alunos criam projetos (TCC, artigo, etc.) e convidam orientadores por email ou QR Code. Orientadores gerenciam múltiplos projetos em um dashboard centralizado.
     * **Editor de Texto Focado:** Um editor de texto avançado (baseado em Tiptap/Milkdown) com formatação ABNT/APA, comentários e histórico de versão.
+    * **Traduções em I18N:** Versões em inglês e português.
 
 * **Inteligência Artificial (IA):**
     * **Assistente de Escrita (Gemini):** Integrado ao editor para corrigir gramática, reescrever trechos (formal, conciso), gerar resumos e atuar como um "agente-IA-orientador" que sugere melhorias estruturais no texto.
